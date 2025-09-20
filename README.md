@@ -6,7 +6,9 @@ The dataset includes:
 - **8 coffee categories**  
 - **Payment methods** (cash, card)  
 - **Date and time of each sale**  
-- **Unique card numbers** for transactions
+- **Unique card numbers** for transactions.
+  
+The Workbook and original CSv file have been uploaded for easier access.
 
 ### Dashboard overview
 
